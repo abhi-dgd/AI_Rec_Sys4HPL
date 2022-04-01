@@ -43,4 +43,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/ai_rec_sys4hpl:latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/AI_Rec_Sys4HPL:latest
